@@ -234,7 +234,7 @@ export default function AddTasks() {
                                         setLocation(data.description);
                                     }}
                                     query={{
-                                        key: "AIzaSyCQ_Z1K7-tSJKLEGC_jefSroMkUIbUi6J0",
+                                        key: "",
                                         language: "en",
                                         types: "(cities)",
                                     }}
@@ -259,7 +259,7 @@ export default function AddTasks() {
                                         setAddress(data.description);
                                     }}
                                     query={{
-                                        key: "AIzaSyCQ_Z1K7-tSJKLEGC_jefSroMkUIbUi6J0",
+                                        key: "",
                                         language: "en",
                                         types: "address",
                                     }}
