@@ -1,0 +1,7 @@
+Google api [-]
+NavBottom [x]
+Filter in back [x]
+FIX: PRice card [x]
+Check small screen [x]
+FIX: icons (assets) [x]
+My task fix []
